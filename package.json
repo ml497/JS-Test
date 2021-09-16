@@ -1,0 +1,23 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ml497/JS-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ml497/JS-Test/issues"
+  },
+  "homepage": "https://github.com/ml497/JS-Test#readme",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
